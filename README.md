@@ -52,7 +52,7 @@
 ## Usage
 1. Version I
     - delays
-        - python-bitcoins-utils:[python bitcoin-utils](https://github.com/karask/python-bitcoin-utils)
+        - python-bitcoins-utils: [python bitcoin-utils](https://github.com/karask/python-bitcoin-utils)
     - commands 
         ```
         cd Version_I
