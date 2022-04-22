@@ -51,8 +51,10 @@
 ---
 ## Usage
 1. Version I
-    - delays1
-```
-cd Version_I
-python main.py
-```
+    - delays
+        - python-bitcoins-utils:[python bitcoin-utils](https://github.com/karask/python-bitcoin-utils)
+    - commands 
+        ```
+        cd Version_I
+        python main.py
+        ```
