@@ -76,7 +76,7 @@ export default {
   },
   methods:{
       handleInput(){
-          if(this.model.email === '2395705340@qq.com' && this.model.password === 'xcl12345') {
+          if(this.model.email === 'admin' && this.model.password === 'admin') {
               this.$router.push('/dashboard');
           }
       }
