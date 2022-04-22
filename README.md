@@ -74,5 +74,6 @@
         npm install
         npm run serve
         ```
-    - design sketch1
+    - Notes:
+        frontend's accout and passwd is **'admin'**
         
