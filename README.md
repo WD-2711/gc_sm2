@@ -51,7 +51,7 @@
 ---
 ## Usage
 1. Version I
-    1.1. delays
+    1.1. delays1
 ```
 cd Version_I
 python main.py
