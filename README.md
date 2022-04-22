@@ -1,8 +1,8 @@
 # gc_sm2
 --------------------
 # Breif Introduction
-It's aims to build generalized channel based on Adapt Signature
-(Notes: this project lack front end)
+  It's aims to build generalized channel based on Adapt Signature
+  (Notes: this project lack front end)
 --------------------
 # Files tree
 ```
