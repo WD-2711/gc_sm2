@@ -74,5 +74,5 @@
         npm install
         npm run serve
         ```
-    - design sketch
+    - design sketch1
         
