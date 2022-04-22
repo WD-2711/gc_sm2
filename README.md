@@ -1,10 +1,10 @@
 # gc_sm2
---------------------
-# Breif Introduction
+---
+## Breif Introduction
   It's aims to build generalized channel based on Adapt Signature
   (Notes: this project lack front end)
---------------------
-# Files tree
+---
+## Files tree
 ```
 .
 └── gc_sm2/
@@ -18,6 +18,6 @@
     ├── run.py
     └── utils.py 
 ```
---------------------
-# Usage
+---
+## Usage
 `python main,py`
