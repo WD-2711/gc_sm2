@@ -53,8 +53,26 @@
 1. Version I
     - delays
         - python-bitcoins-utils: [python bitcoin-utils](https://github.com/karask/python-bitcoin-utils)
+        - ...
     - commands 
         ```
-        cd Version_I
+        cd ./Version_I
         python main.py
         ```
+2. Version II
+    - dalays
+        - flask
+        - nodejs
+        - ...
+    - commands
+        ```
+        //Step1: open backend
+        cd ./Version_II/backend
+        python run.py
+        //Step2: open frontend
+        cd ./Verson_II/frontend
+        npm install
+        npm run serve
+        ```
+    - design sketch
+        
