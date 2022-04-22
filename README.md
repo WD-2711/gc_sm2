@@ -1,8 +1,8 @@
 # gc_sm2
 ---
 ## Breif Introduction
-  It's aims to build generalized channel based on Adapt Signature
-  (Notes: this project lack front end)
+1. It's aims to build generalized channel based on Adapt Signature
+2. Notes: this project lack front end
 ---
 ## Files tree
 ```
@@ -20,4 +20,5 @@
 ```
 ---
 ## Usage
-`python main,py`
+1. `python main.py`
+2. this code have 4 funtions: `channelCreate`, `channelUpdate`,`punishUser`,`channelClose`
